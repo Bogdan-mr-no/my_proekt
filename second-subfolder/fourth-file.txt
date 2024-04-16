@@ -1,1 +1,3 @@
 Fourth file text
+
+Этот файл был изменён в ветке feuture branch
