@@ -1,1 +1,3 @@
 Third file text
+
+Тоже изменение в main
